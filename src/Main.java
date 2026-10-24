@@ -80,7 +80,7 @@ public class Main {
                         System.out.println("Dias de atraso: " + diasAtraso);
                         System.out.printf(Locale.forLanguageTag("pt-BR"),
                                 "Multa ilustrativa: R$ %.2f%n", multa);
-                        System.out.println("Tarifa de R$ 2,00/dia e provisoria: confirmar com o professor.");
+                        System.out.println("Tarifa de R$ 2,00/dia.");
                         System.out.println("Nenhum emprestimo real foi encerrado.");
                     }
                 }
